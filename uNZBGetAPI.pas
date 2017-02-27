@@ -1,19 +1,35 @@
 // --------------------------------------------
-// Alexandre contact@toutenvrac.org
+//    DelphiNZBGetAPI for communicate with NZBGet API JSON
+//    Copyright (C) 2017 Alexandre <ouioui_c_moi@hotmail.com>
 //
-// 1.0   2013/11/04 - Initial version
-// 2.0   2013/11/06 - Rewrite as class
-// 2.0.1 2013/11/12 - Better handling error in SendCWMD
+//    This library is free software; you can redistribute it and/or
+//    modify it under the terms of the GNU Lesser General Public
+//    License as published by the Free Software Foundation; either
+//    version 2.1 of the License, or (at your option) any later version.
 //
-// TODO: add
-// Method "editqueue"
-// Method "appendurl"
-// Method "writelog"
-// Method "scan"
-// Method "config"
-// Method "loadconfig"
-// Method "saveconfig"
-// Method "configtemplates"
+//    This library is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+//    Lesser General Public License for more details.
+//
+//    You should have received a copy of the GNU Lesser General Public
+//    License along with this library; if not, write to the Free Software
+//    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
+//    USA
+//
+//    1.0   2013/11/04 - Initial version
+//    2.0   2013/11/06 - Rewrite as class
+//    2.0.1 2013/11/12 - Better handling error in SendCWMD
+//
+//    TODO: add
+//    Method "editqueue"
+//    Method "appendurl"
+//    Method "writelog"
+//    Method "scan"
+//    Method "config"
+//    Method "loadconfig"
+//    Method "saveconfig"
+//    Method "configtemplates"
 // --------------------------------------------
 Unit uNZBGetAPI;
 
